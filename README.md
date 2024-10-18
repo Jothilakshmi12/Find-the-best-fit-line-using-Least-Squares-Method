@@ -46,8 +46,9 @@ plt.plot(X,y_predicted,color='red')
 plt.show()
 ```
 ## Output:
+![WhatsApp Image 2024-10-18 at 10 36 57_0eaf315e](https://github.com/user-attachments/assets/e1ed5f29-657b-442e-b771-95dc1a9b8aaf)
+![WhatsApp Image 2024-10-18 at 10 35 25_911a9dc0](https://github.com/user-attachments/assets/7ddb8f14-c275-4ebb-b34d-bc94db5218b6)
 
-![ML ex01 output](https://github.com/user-attachments/assets/12a82014-d970-4964-8aa7-5cb09a951739)
 
 
 ## Result:
